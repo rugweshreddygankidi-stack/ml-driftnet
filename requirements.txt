@@ -1,0 +1,10 @@
+# The notebook is designed for Google Colab (T4 GPU); these are only needed to run it elsewhere.
+torch
+transformers
+accelerate
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+plotly
+tqdm

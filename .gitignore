@@ -1,5 +1,6 @@
-   newllmmodel/
-   *.csv
-   *.html
+   # files the notebook writes to the working folder
+   /newllmmodel/
+   /*.csv
+   /*.html
    .ipynb_checkpoints/
    __pycache__/

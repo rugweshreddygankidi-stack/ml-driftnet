@@ -1,0 +1,5 @@
+   newllmmodel/
+   *.csv
+   *.html
+   .ipynb_checkpoints/
+   __pycache__/
